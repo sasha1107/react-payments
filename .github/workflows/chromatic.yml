@@ -2,6 +2,7 @@
 name: 'Chromatic Deployment'
 
 # Event for the workflow
+# test
 on:
   pull_request:
     types:
